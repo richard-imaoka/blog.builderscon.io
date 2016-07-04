@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "builderscon Session Timer for Android"
-date:   2016-07-04 10:00:00 +0900
+date:   2016-07-04 10:30:00 +0900
 categories: builderscon
 author: lestrrat
 ---
