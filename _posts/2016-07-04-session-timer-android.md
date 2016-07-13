@@ -14,7 +14,7 @@ As [we described in our previous post](http://blog.builderscon.io/builderscon/20
 
 Anyway, you can go to the Google Play Store today, and [get the app for your time keeping needs](https://play.google.com/store/apps/details?id=io.builderscon.sessiontimer). Unlike the [Web version](http://web.timer.builderscon.io), the Android version is meant to be used by conference/meetup staff, so that you can get clues as to when to notify speakers or get ready for taking questions, etc. It currently supports 1, 5, 30, 60 minutes, and provides notifications at appropriate times.
 
-![](/assets/images/2016-07/android-timer.png)
+![](/assets/images/2016-07/android-timer.jpg)
 
 The code is hosted on Github, and your contributions to make this app better is [always welcome](https://github.com/builderscon/session-timer).
 
