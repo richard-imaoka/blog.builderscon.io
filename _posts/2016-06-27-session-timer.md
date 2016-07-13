@@ -18,7 +18,7 @@ For example:
 
 So naturally we decided to build our own session timers :D
 
-![](/assets/images/2016-06/web-timer.png)
+![](/assets/images/2016-06/web-timer.jpg)
 
 As of today, we have a [simple web based timer](http://web.timer.builderscon.io) that you can use for time keeping 5, 15, 30, and 60 minute talks. The UI will notify you when you reach certain times (for 60 minute talks, this would be at T-15, 10, 5 minutes, and varies depending on the total time of the session). The web UI is intended to be displayed in a notebook or a tablet so that it can be shared with the speaker or the entire room.
 
@@ -44,7 +44,7 @@ Hope this is useful. Keep on building!
 
 今回buildersconを開催するにあたってこれをどうしようと考えた結果… 作ってしまおう！ということになりました :D
 
-![](/assets/images/2016-06/web-timer.png)
+![](/assets/images/2016-06/web-timer.jpg)
 
 というわけで本日[シンプルな、Web画面で操作できるタイマー](http://web.timer.builderscon.io)を公開しました！ 5分、15分、30分、60分セッションのタイマーとして利用することができ、それぞれのセッション時間内で（buildersconとして）最適と思われるタイミングで画面表示が切り替わってスピーカーにお知らせをするタイミングを伝えてくれます。このWeb版はノートブックや大きめのタブレット等で表示して、スピーカーや聴衆に見せながら使う事を想定されています。
 
